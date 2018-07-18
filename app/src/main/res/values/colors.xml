@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="colorPrimary">#3F51B5</color>
+<color name="colorPrimaryDark">#303F9F</color>
+<color name="colorAccent">#FF4081</color>
+<color name="startColor1">#e64c3c</color>
+<color name="startColor2">#fbed90</color>
+<color name="startColor3">#2ecb71</color>
+<color name="startColor4">#871F78</color>
+<color name="white">#e958d4</color>
+<color name="point1">#e9b75e</color>
+<color name="point2">#ed5a83</color>
+<color name="point3">#83c5b4</color>
+<color name="point4">#9bd5e6</color>
+</resources>
